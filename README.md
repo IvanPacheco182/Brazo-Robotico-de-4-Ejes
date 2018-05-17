@@ -1,8 +1,8 @@
 # Control De Brazo Robotico De 4 Ejes.
 El propósito de esta práctica es desarrollar paso a paso un proyecto para controlar y programar un Brazo Robot, simulando las funciones básicas de un robot industrial.
 
-Fecha:   17/05/2018
-Autores: OrlandoMozquedaVieyra
+*Fecha:   17/05/2018
+*Autores: OrlandoMozquedaVieyra
          Marco Antonio Moreno Cortés
 
 # El robot debe tener dos funciones básicas:
