@@ -7,7 +7,7 @@ El propósito de esta práctica es desarrollar paso a paso un proyecto para cont
 Registrar las posiciones de los brazos en tres dimensiones (cada registro es un "paso", un programa consiste en una serie de pasos).
 
 # Ejecutar: 
-Realice en secuencia las posiciones registradas en el "Programa". El robot ejecutará el programa hasta que se use el comando "ABORTAR".
+Se realizo en secuencia las posiciones registradas en el "Programa". El robot ejecutará el programa hasta que se use el comando "ABORTAR".
 
 # Características principales:
 
